@@ -5,10 +5,6 @@
 
 https://bananahexagon.github.io/blog/2023/0401
 
+Butter言語はすでにあったのでSugotに改名
 
-
-
-
-
-
-【悲報】Butter言語、すでにあった...orz
+Sugarspotを縮めてSugot

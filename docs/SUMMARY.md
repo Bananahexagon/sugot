@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Sugot by Example](README.md)
-* [コメントと"Hello, world!"](komentotohello-world.md)
-* [変数と定数](to.md)
-* [データ型](dta.md)
-* [制御構文](zhi-yu-gou-wen.md)
-* [関数](guan-shu.md)
+* [コメントと"Hello, world!"](comments\_and\_helloworld.md)
+* [変数と定数](let\_and\_const.md)
+* [データ型](data\_types.md)
+* [制御構文](control\_flow.md)
+* [関数](function.md)

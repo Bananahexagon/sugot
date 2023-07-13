@@ -2,7 +2,7 @@
 
 ```
 // アロー関数式を使うと関数を定義できます。
-const sum = x: int => int {
+const sum = x: int -> int {
     let y = 0
     for i in 1..x {
         y += i
@@ -11,12 +11,12 @@ const sum = x: int => int {
 } // 引数として整数値を受け取って、その数までの総和を返す関数
 
 // 複数の値を受け取る関数を定義するにはタプルを使います。
-const sum = (x: int, y: int) => int {
+const sum = (x: int, y: int) -> int {
     x + y
 }
 
 // この関数宣言のエイリアスとして、fnキーワードを使うことができます。
-fn sum x: int => int {
+fn sum x: int -> int {
     let y = 0
     for i in 1..x {
         y += i
@@ -25,7 +25,7 @@ fn sum x: int => int {
 }
 
 // 値を返したくない場合は、戻り値の型をvoidにします。
-fn countUp x: int => void {
+fn countUp x: int -> void {
     for i in 1..x {
         print(x)
     }

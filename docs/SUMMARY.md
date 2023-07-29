@@ -12,12 +12,12 @@
 
 ## オブジェクト指向 <a href="#ch2_oop" id="ch2_oop"></a>
 
-* [構造体と列挙型](ch2\_oop/to.md)
-* [トレイト](ch2\_oop/toreito.md)
+* [構造体と列挙型](ch2\_oop/struct\_and\_enum.md)
+* [トレイト](ch2\_oop/trait.md)
 
 ## 関数型プログラミング <a href="#ch3_fp" id="ch3_fp"></a>
 
-* [副作用と参照透過性](ch3\_fp/to.md)
+* [副作用と参照透過性](ch3\_fp/pure\_function.md)
 * [Page 1](ch3\_fp/page-1.md)
 
 ## Empty

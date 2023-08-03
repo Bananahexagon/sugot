@@ -10,7 +10,11 @@ Butter言語はすでにあったのでSugotに改名
 Sugarspotを縮めてSugot
 
 ```
-println("Hello, world!");
+use std.*
+
+fn main() {
+  print("Hello, world!")();
+}
 ```
 
 こんなかんじ

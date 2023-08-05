@@ -2,6 +2,7 @@
 
 * [Sugot by Example](README.md)
 * [コメントと"Hello, world!"](comment\_and\_helloworld.md)
+* [Memo](memo.md)
 
 ## 基本構文 <a href="#ch1_basic_syntax" id="ch1_basic_syntax"></a>
 

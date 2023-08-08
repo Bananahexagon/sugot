@@ -19,8 +19,9 @@
 ## 関数型プログラミング <a href="#ch3_fp" id="ch3_fp"></a>
 
 * [副作用と参照透過性](ch3\_fp/pure\_function.md)
-* [Page 1](ch3\_fp/page-1.md)
 
 ## Empty
 
-* [Untitled](empty/untitled.md)
+* [Untitled](empty/untitled/README.md)
+  * [Page 1](empty/untitled/page-1/README.md)
+    * [Page](empty/untitled/page-1/page.md)
